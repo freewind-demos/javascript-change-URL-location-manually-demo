@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "demo": "http-server . -c-1 --cors -o"
+    "start": "http-server . -c-1 --cors -o"
   },
   "devDependencies": {
     "http-server": "0.11.1"
